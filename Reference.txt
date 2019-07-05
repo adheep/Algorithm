@@ -1,0 +1,2 @@
+https://www.iso20022.org/sites/default/files/documents/general/ISO20022_API_JSON_Whitepaper_Final_20180129.pdf
+
